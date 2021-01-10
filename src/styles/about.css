@@ -1,0 +1,9 @@
+body {
+}
+.about-container {
+    height: 100vh
+}
+.about-hero-image img{
+    width: 100%;
+    margin: 0;
+}

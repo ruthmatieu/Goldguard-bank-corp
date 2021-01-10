@@ -1,0 +1,18 @@
+.register-container {
+    display: grid;
+    place-items: center;
+    width: 100vw;
+    background-color: #27262C;
+    height: 91vh;
+    
+}
+
+.register-container h1, .extra {
+    color: white;
+}
+
+.register-wrapper {
+    background-color: white;
+    padding: 20px 40px;
+    border-radius: 25px;
+}

@@ -1,0 +1,28 @@
+.App {
+  text-align: center;
+}
+
+nav {
+  display: flex; 
+  justify-content: space-between; 
+  padding: 10px 0;
+}
+
+button {
+  padding: 10px 20px;
+  color: #27262C;
+  border: none;
+  background-color: #C4A06C;
+  border-radius: 25px;
+}
+
+button:hover {
+  color: #27262C;
+  background-color: #CEB380;
+  cursor: pointer;
+  transition: ease-in;
+}
+
+.form-btn {
+  margin-top: 20px;
+}
